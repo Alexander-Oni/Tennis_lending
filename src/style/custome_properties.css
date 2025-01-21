@@ -1,0 +1,22 @@
+:root{
+    font-size: 62.5%;
+
+    --font-family: "Roboto Flex", serif;
+
+    --text-color: #333;
+    --second-text-color: #fff;
+
+    --main-color: #8d86c9;
+    --main-bg-color: #fff;
+    --bg-color: #f7ece1;
+
+    --text-size: 1.4rem;
+    --second-text-size: 1.8rem;
+    --third-text-size: 2.4rem;
+
+    --title-size: 4.8rem;
+    --second-title-size: 3.6rem;
+    --third--title-size: 2.7rem;
+    --fourth-title-size: 2.1rem;
+}
+
