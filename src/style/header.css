@@ -1,0 +1,28 @@
+.header{
+    width: 192rem;
+    height: 100rem;
+    background-image: url(../img/header-bg.png);
+}
+
+.logo{
+    width: 15.3rem;
+    height: 4.6rem;
+}
+
+.header__nav{
+    display: flex;
+    width: 129.6rem;
+    padding-left: 31.2rem;
+    padding-right: 31.2rem;
+}
+
+.nav__items{
+    display: flex;
+    width: 74.2rem;
+    height: 2rem;
+}
+
+.header__socials{
+    width: 9.2rem;
+    height: 3.6rem;
+}
