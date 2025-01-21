@@ -2,6 +2,8 @@
     width: 192rem;
     height: 100rem;
     background-image: url(../img/header-bg.png);
+    max-inline-size: 129.6rem;
+    margin: -3rem auto;
 }
 
 .logo{
@@ -11,9 +13,10 @@
 
 .header__nav{
     display: flex;
-    width: 129.6rem;
-    padding-left: 31.2rem;
-    padding-right: 31.2rem;
+    
+    margin: 3rem 31.2rem;
+    
+    
 }
 
 .nav__items{
@@ -22,7 +25,3 @@
     height: 2rem;
 }
 
-.header__socials{
-    width: 9.2rem;
-    height: 3.6rem;
-}
