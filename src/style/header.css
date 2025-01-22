@@ -61,7 +61,6 @@
 }
 .play-btn {
   display: flex;
-  background-color: #333;
 }
 .header__decription p {
   font-size: var(--second-text-size);
