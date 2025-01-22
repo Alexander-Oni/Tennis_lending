@@ -1,3 +1,4 @@
+/*header navigation*/
 .header {
   width: 192rem;
   height: 100rem;
@@ -45,3 +46,24 @@
   align-items: center;
   gap: 2rem;
 }
+/*end header navigation*/
+/*header description*/
+.header__decription {
+  padding-top: 20rem;
+  margin: 0 31.2rem;
+}
+.header__decription h1 {
+  font-size: var(--title-size);
+  width: 63.6rem;
+  height: 20.1rem;
+  text-align: left;
+  padding-bottom: 6rem;
+}
+.play-btn {
+  display: flex;
+  background-color: #333;
+}
+.header__decription p {
+  font-size: var(--second-text-size);
+}
+/*end header description*/
